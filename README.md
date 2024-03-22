@@ -2,4 +2,4 @@
 
 # Class Diagram
 
-![Gameplay](https://github.com/LiamTGay/World-Guesser/blob/main/images/Diagram1.png?raw=true)
+![Gameplay](https://github.com/LiamTGay/World-Guesser/blob/main/images/Diagram2.png?raw=true)
